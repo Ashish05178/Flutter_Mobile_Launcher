@@ -1,5 +1,6 @@
 # flutter_launcher_app
-
+Use main.dart file in your own project.
+Import launcher_assist to run the project.
 A new Flutter application.
 
 ## Getting Started
